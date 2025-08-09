@@ -16,8 +16,8 @@ The motor is controlled in both clockwise and counterclockwise directions using 
 ### Components Used
 - 1] AT89C51 Microcontroller
 - 2]ULN2003 Driver IC (or equivalent) to control the stepper motor
- -3]Stepper Motor
- -4]Supporting Components: Resistors, capacitors, and crystal oscillator
+- 3]Stepper Motor
+- 4]Supporting Components: Resistors, capacitors, and crystal oscillator
 
 ### Circuit Design
   - Port P2 of the microcontroller is connected to the ULN2003 driver, which drives the stepper motor.
